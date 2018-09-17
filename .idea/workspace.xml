@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex13.rb" afterPath="$PROJECT_DIR$/ex13.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ex14.rb" afterPath="$PROJECT_DIR$/ex14.rb" />
     </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,11 +56,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ex13.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex13.rb">
+      <file leaf-file-name="ex14.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ex14.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+            <state relative-caret-position="330">
+              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -82,11 +84,9 @@
         <option value="$PROJECT_DIR$/ex10.rb" />
         <option value="$PROJECT_DIR$/ex11.rb" />
         <option value="$PROJECT_DIR$/ex35.rb" />
-        <option value="$PROJECT_DIR$/ex13.rb" />
         <option value="$PROJECT_DIR$/ex15_sample.txt" />
         <option value="$PROJECT_DIR$/ex15.txt" />
         <option value="$PROJECT_DIR$/test-tickle/README.txt" />
-        <option value="$PROJECT_DIR$/ex14.rb" />
         <option value="$PROJECT_DIR$/ex15-1.txt" />
         <option value="$PROJECT_DIR$/ex15_instructions.txt" />
         <option value="$PROJECT_DIR$/ex16_with_comments.rb" />
@@ -100,6 +100,8 @@
         <option value="$PROJECT_DIR$/test-tickle/README.md" />
         <option value="$PROJECT_DIR$/ex19.rb" />
         <option value="$PROJECT_DIR$/ex12.rb" />
+        <option value="$PROJECT_DIR$/ex13.rb" />
+        <option value="$PROJECT_DIR$/ex14.rb" />
       </list>
     </option>
   </component>
@@ -183,6 +185,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="FullScreen" value="true" />
+    <property name="ignore_missing_gitignore" value="true" />
   </component>
   <component name="RunManager" selected="Ruby.ex13">
     <configuration default="false" name="Dan example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
@@ -529,16 +532,16 @@
       <workItem from="1536402237807" duration="829000" />
       <workItem from="1536483632882" duration="2269000" />
       <workItem from="1537112850476" duration="1211000" />
-      <workItem from="1537171617507" duration="905000" />
+      <workItem from="1537171617507" duration="5428000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150705000" />
+    <option name="totallyTimeSpent" value="155228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29613733" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -546,7 +549,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3681592" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43159205" sideWeight="0.49713877" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -831,13 +834,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex14.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex16.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -929,8 +925,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex13.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="90">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex14.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
       </provider>

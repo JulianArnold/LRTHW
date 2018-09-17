@@ -1,6 +1,6 @@
-first, second, third, fourth = ARGV
+first, second, third = ARGV
 
-puts "Your first variable is #{first}"
-puts "Your second variable is #{$stdin.gets.chomp}"
-puts "Your third variable is #{third}"
-puts "Your fourth variable is #{fourth}"
+puts "Your first variable is: #{first}"
+puts "Your second variable is: #{second}"
+puts "Your third variable is: #{$stdin.gets.chomp}"
+puts

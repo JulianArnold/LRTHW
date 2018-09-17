@@ -2,8 +2,8 @@ user_name = ARGV.first
 prompt = '> '
 
 puts "Hi #{user_name}."
-puts 'I\'d like to ask you a few questions...'
-puts "Do you like me #{user_name}"
+puts 'I\'d like to ask you a few questions.'
+puts "Do you like me #{user_name}?"
 print prompt
 likes = $stdin.gets.chomp
 
@@ -16,7 +16,7 @@ print prompt
 computer = $stdin.gets.chomp
 
 puts """
-Alright, so you said #{likes} to liking me,
-you live in #{lives}, don't know where that is..
-and you have a #{computer}.  Nice.
+Alright, you said #{likes} to liking me.
+You live in #{lives}.  Don't know where that is.
+And you have a #{computer} computer.  Nice.
 """
