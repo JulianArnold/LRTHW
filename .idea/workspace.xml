@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/../../Rails_projects/fusioneer/league_table.rb" description="team_01 = 'Leicester City'" line="2" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="" />
+    <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -527,12 +529,12 @@
       <workItem from="1536402237807" duration="829000" />
       <workItem from="1536483632882" duration="2269000" />
       <workItem from="1537112850476" duration="1211000" />
-      <workItem from="1537171617507" duration="326000" />
+      <workItem from="1537171617507" duration="453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150126000" />
+    <option name="totallyTimeSpent" value="150253000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
