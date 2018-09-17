@@ -1,0 +1,53 @@
+# README
+
+## Notes
+
+20180630: ex18 introduced me to functions or method definitions, learned about passing in 0, 1 and 2 arguments and that
+parameters share a lot with ARGV (key difference is you're passing into the method rather than a simple script)
+
+```bash
+$ ruby ex18.rb
+```
+
+20180621: ex17 was mainly about reading one file, copying it's text to another, 2nd file:
+
+```bash
+$ ruby ex17.rb text.txt test2.txt
+```
+
+
+20180526: practicing ex16, all study drills complete, #timetomoveon :D
+
+```bash
+$ ruby ex16.rb text.txt (to write)
+$ ruby ex15.rb text.txt (to read only, returning to console)
+```
+
+20180521: still on ex16 incorporated ex15 into it as well and on the last of the study drills
+
+20180411: filled out and got ex16 working, neatly creates and writes to a .txt file.  Kinda cool!
+
+20180408: working through study drill for ex15, stopped at the last two.. try to finish these before moving on.
+
+20180406: playing with ex15, you can open other different txt files from the same code block.  Cool.
+```bash
+$ ruby ex15.rb ex15.txt
+: ex15-1.txt
+```
+20180405: ditto with ex15: reading external .txt files.
+
+20180402: playing with ex14 a little, changing bits here and there.
+
+20180326: ex13 done, interesting take on ARGV vs. $stdin.gets.chomp.  On to ex14.rb
+
+20180323: keep working on ex12 until you have the sequence down cold
+
+20180322: on ex12, have another look over the code and the comments before reading the study drill
+
+20180319: On ex10.rb, one look at the study drills.
+
+20180318: On ex9.rb, have another go at it.
+
+20180317: next up, ex7.rb
+
+20180316: stopped at ex5.

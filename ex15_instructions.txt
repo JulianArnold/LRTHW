@@ -1,0 +1,13 @@
+new variable called filename points to ARGV, which passes in arguments typed in.
+
+new variable txt points to the open() method which contains the filename variable. File name is the argument
+passed in via ARGV.  Variable inside open() parenthesis is actually opened up.
+
+once opened, we 'puts' a string with the filename as string interpolation: #{filename}.
+Then, we 'print' the txt variable with a 'dot' method to the right: .read which does just that.
+
+round two we're asked to type [print] in the filename again with just a string [no interpolation].
+A new variable [file_again] asks a gets.chomp action which grabs the text from the file, similarly to ARGV.
+
+new variable txt_again points to the open() method which opens the new file_again variable.
+like above, print new variable is txt_again has a 'dot' method which is '.read' like before.
