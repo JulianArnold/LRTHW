@@ -16,7 +16,8 @@ print prompt
 computer = $stdin.gets.chomp
 
 puts """
-Alright, you said #{likes} to liking me.
-You live in #{lives}.  Don't know where that is.
+Alrighty then! you said #{likes} to liking me.
+you live in #{lives}, don't know where that is.
 And you have a #{computer} computer.  Nice.
 """
+puts

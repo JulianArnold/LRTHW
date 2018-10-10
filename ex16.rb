@@ -1,37 +1,28 @@
-filename = ARGV[0]
+filename = ARGV.first
 
 puts """
-We're going to erase #{filename}.
+We're going to erase #{filename}!
 Press CTRL-C (^C) if you don't want this.
-Press RETURN if you do..
+Press RETURN if you do want this.
 """
 
 $stdin.gets
 
-puts 'We\'re now going to open the file...'
+puts 'Opening the file...'
 target = open(filename, 'w')
 
-puts 'I\'m now going to ask you to write 3 lines of text:'
+puts 'I\'m now going to ask you for three lines...'
 
-print 'Line 1: '
+print 'Line1: '
 line1 = $stdin.gets.chomp
-print 'Line 2: '
+print 'Line2: '
 line2 = $stdin.gets.chomp
-print 'Line 3: '
+print 'Line3: '
 line3 = $stdin.gets.chomp
 
-puts "I'm now going to write these to #{filename}."
+puts 'I\'ll now write these to the file...'
 
-target.write("#{line1}\n#{line2}\n#{line3}")
+target.write("Line1: #{line1}\nLine2: #{line2}\nLine3: #{line3}")
 
-puts "Now we will close #{filename}."
+puts 'Now we\'ll close the file.  Thank you.'
 target.close
-
-puts "We'll re-open #{filename}"
-txt = open(filename)
-puts '..now to post it here in the console right below this line:'
-puts txt.read
-puts "now to close #{filename}."
-sleep(1)
-txt.close
-puts 'bye-bye!'
