@@ -1,19 +1,19 @@
 from_file, to_file = ARGV
 
-puts "Copying from #{from_file} to #{to_file}."
+puts "Copying from file #{from_file} to file #{to_file}..."
 
 indata = open(from_file).read
 
 puts """
-The input file is #{indata.length} bytes long.
-Does the output file exist? #{File.exist?(to_file)}
-Ready, press RETURN to continue or press CTRL-C to abort
+The input file is #{indata.length} bytes in size.
+Does the target or output file exist? #{File.exist?(to_file)}
+Ready, press RETURN to continue or CTRL-C for the escape pod...
 """
 $stdin.gets
 
-out_file = open(to_file, 'w')
-out_file.write(indata)
+outdata = open(to_file, 'w')
+outdata.write(indata)
 
-puts 'Allright, all done!  Bye.'
-
-out_file.close
+puts 'OK, all done...'
+outdata.close
+puts
