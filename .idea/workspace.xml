@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Julian" beforeDir="false" afterPath="$PROJECT_DIR$/Julian" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Julian.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Julian.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex17.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex17.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex18.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex18.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dan example.rb" beforeDir="false" afterPath="$PROJECT_DIR$/Dan example.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex19-1.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex19-1.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex19.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex19.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/new_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/new_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex20.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex20.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex21.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex21.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,23 +35,31 @@
     <SUITE FILE_PATH="coverage/Programs@ex18.coverage" NAME="ex18 Coverage Results" MODIFIED="1538996541556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex30.coverage" NAME="ex30 Coverage Results" MODIFIED="1522356010546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex14.coverage" NAME="ex14 Coverage Results" MODIFIED="1529267902612" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@Dan_example_2.rcov" NAME="Dan_example_2 Coverage Results" MODIFIED="1550702027479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex21.coverage" NAME="ex21 Coverage Results" MODIFIED="1538243368819" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex13.rcov" NAME="ex13 Coverage Results" MODIFIED="1543270112006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex6.coverage" NAME="ex6 Coverage Results" MODIFIED="1521312925579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex29.coverage" NAME="ex29 Coverage Results" MODIFIED="1522356030245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex19_1.rcov" NAME="ex19-1 Coverage Results" MODIFIED="1549576186733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex9.coverage" NAME="ex9 Coverage Results" MODIFIED="1521487461253" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex26.coverage" NAME="ex26 Coverage Results" MODIFIED="1522356055840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex35.coverage" NAME="ex35 Coverage Results" MODIFIED="1522355724701" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex19.rcov" NAME="ex19 Coverage Results" MODIFIED="1543533077369" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex25.coverage" NAME="ex25 Coverage Results" MODIFIED="1538243512039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex21.rcov" NAME="ex21 Coverage Results" MODIFIED="1553456189075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@times_tables.coverage" NAME="times_tables Coverage Results" MODIFIED="1537527124990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex34.coverage" NAME="ex34 Coverage Results" MODIFIED="1522355885507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex19.coverage" NAME="ex19 Coverage Results" MODIFIED="1536408286572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex10.coverage" NAME="ex10 Coverage Results" MODIFIED="1521755759105" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex3.coverage" NAME="ex3 Coverage Results" MODIFIED="1521063311269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex8.coverage" NAME="ex8 Coverage Results" MODIFIED="1521394718380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex12.rcov" NAME="ex12 Coverage Results" MODIFIED="1546207378437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@times_tables1.coverage" NAME="times_tables1 Coverage Results" MODIFIED="1521757590786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex33.coverage" NAME="ex33 Coverage Results" MODIFIED="1522355921439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex11.coverage" NAME="ex11 Coverage Results" MODIFIED="1521756335294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex5.coverage" NAME="ex5 Coverage Results" MODIFIED="1521297361973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex18.rcov" NAME="ex18 Coverage Results" MODIFIED="1549191895599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@Dan_example.rcov" NAME="Dan example Coverage Results" MODIFIED="1550701962515" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex13.coverage" NAME="ex13 Coverage Results" MODIFIED="1537133173520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@Dan_example.coverage" NAME="Dan example Coverage Results" MODIFIED="1523480562021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex2.coverage" NAME="ex2 Coverage Results" MODIFIED="1521061161747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
@@ -63,36 +72,45 @@
     <session id="-735042447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
-          <entry key="project.open.time.11" value="2" />
-          <entry key="project.open.time.12" value="1" />
-          <entry key="project.open.time.13" value="2" />
-          <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="5" />
-          <entry key="project.open.time.16" value="2" />
-          <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.18" value="2" />
-          <entry key="project.open.time.19" value="3" />
-          <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.closed" value="85" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.11" value="6" />
+          <entry key="project.open.time.12" value="10" />
+          <entry key="project.open.time.13" value="7" />
+          <entry key="project.open.time.14" value="5" />
+          <entry key="project.open.time.15" value="14" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="2" />
+          <entry key="project.open.time.18" value="4" />
+          <entry key="project.open.time.19" value="10" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.20" value="4" />
+          <entry key="project.open.time.21" value="2" />
+          <entry key="project.open.time.22" value="4" />
+          <entry key="project.open.time.23" value="3" />
+          <entry key="project.open.time.24" value="2" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="24" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="90" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Julian" value="30" />
-          <entry key="md" value="49" />
-          <entry key="rb" value="6875" />
+          <entry key="md" value="263" />
+          <entry key="rb" value="24318" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="49" />
+          <entry key="Markdown" value="263" />
           <entry key="PLAIN_TEXT" value="31" />
-          <entry key="Ruby" value="6875" />
+          <entry key="Ruby" value="24318" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -100,16 +118,16 @@
           <entry key="Julian" value="3" />
           <entry key="cv" value="2" />
           <entry key="ex17_original" value="2" />
-          <entry key="md" value="1" />
-          <entry key="rb" value="16" />
-          <entry key="txt" value="3" />
+          <entry key="md" value="5" />
+          <entry key="rb" value="32" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Markdown" value="1" />
-          <entry key="PLAIN_TEXT" value="10" />
-          <entry key="Ruby" value="16" />
+          <entry key="Markdown" value="5" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Ruby" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -122,79 +140,36 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex12.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex13.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex14.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex15.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex16.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex17.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ex18.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ex19.rb">
+        <entry file="file://$PROJECT_DIR$/ex21.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="540">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test-tickle/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="60">
+                <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print_a_line</find>
+      <find>SEEK_CUR</find>
+      <find>number1</find>
+      <find>return</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -219,7 +194,6 @@
         <option value="$PROJECT_DIR$/ex15_instructions.txt" />
         <option value="$PROJECT_DIR$/ex16_with_comments.rb" />
         <option value="$PROJECT_DIR$/ex16_part2.rb" />
-        <option value="$PROJECT_DIR$/test.txt" />
         <option value="$PROJECT_DIR$/test2.txt" />
         <option value="$PROJECT_DIR$/ex12.rb" />
         <option value="$PROJECT_DIR$/ex13.rb" />
@@ -234,9 +208,16 @@
         <option value="$PROJECT_DIR$/ex17.rb" />
         <option value="$PROJECT_DIR$/new_file.txt" />
         <option value="$PROJECT_DIR$/Julian" />
-        <option value="$PROJECT_DIR$/test-tickle/README.md" />
         <option value="$PROJECT_DIR$/ex18.rb" />
         <option value="$PROJECT_DIR$/ex19.rb" />
+        <option value="$PROJECT_DIR$/ex19-1.rb" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/Dan example.rb" />
+        <option value="$PROJECT_DIR$/Dan_example_2.rb" />
+        <option value="$PROJECT_DIR$/ex20.rb" />
+        <option value="$PROJECT_DIR$/rfb.rb" />
+        <option value="$PROJECT_DIR$/test-tickle/README.md" />
+        <option value="$PROJECT_DIR$/ex21.rb" />
       </list>
     </option>
   </component>
@@ -247,15 +228,15 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="873" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -272,6 +253,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -294,7 +276,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.ex17">
+  <component name="RunManager" selected="Ruby.ex21">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -324,7 +306,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="ex17" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="Dan example" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -338,7 +320,25 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex17.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Dan example.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Dan_example_2" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Programs" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/Dan_example_2.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -360,6 +360,24 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
+    <configuration name="ex19-1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Programs" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex19-1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
     <configuration name="ex21" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
@@ -378,42 +396,6 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex24" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Programs" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex24.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex25" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Programs" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex25.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -424,19 +406,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.ex21" />
-      <item itemvalue="Ruby.ex24" />
-      <item itemvalue="Ruby.ex25" />
       <item itemvalue="Ruby.ex18" />
-      <item itemvalue="Ruby.ex17" />
+      <item itemvalue="Ruby.ex19-1" />
+      <item itemvalue="Ruby.Dan example" />
+      <item itemvalue="Ruby.Dan_example_2" />
+      <item itemvalue="Ruby.ex21" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.ex17" />
-        <item itemvalue="Ruby.ex18" />
-        <item itemvalue="Ruby.ex25" />
-        <item itemvalue="Ruby.ex24" />
         <item itemvalue="Ruby.ex21" />
+        <item itemvalue="Ruby.Dan_example_2" />
+        <item itemvalue="Ruby.Dan example" />
+        <item itemvalue="Ruby.ex19-1" />
+        <item itemvalue="Ruby.ex18" />
       </list>
     </recent_temporary>
   </component>
@@ -589,29 +571,95 @@
       <workItem from="1542189039384" duration="1997000" />
       <workItem from="1542228308102" duration="656000" />
       <workItem from="1542271147563" duration="668000" />
-      <workItem from="1542365279414" duration="1404000" />
+      <workItem from="1542365279414" duration="1877000" />
+      <workItem from="1542466067559" duration="1408000" />
+      <workItem from="1542545197677" duration="206000" />
+      <workItem from="1542620209559" duration="1516000" />
+      <workItem from="1542967350952" duration="3276000" />
+      <workItem from="1543259698366" duration="1577000" />
+      <workItem from="1543338039682" duration="106000" />
+      <workItem from="1543400459754" duration="1374000" />
+      <workItem from="1543481933099" duration="2045000" />
+      <workItem from="1544122454834" duration="1451000" />
+      <workItem from="1544207716300" duration="1698000" />
+      <workItem from="1544474614776" duration="248000" />
+      <workItem from="1544565898117" duration="126000" />
+      <workItem from="1544641869626" duration="1171000" />
+      <workItem from="1545415579105" duration="1220000" />
+      <workItem from="1545475336281" duration="2181000" />
+      <workItem from="1546091697823" duration="437000" />
+      <workItem from="1546205536787" duration="1838000" />
+      <workItem from="1546464375181" duration="347000" />
+      <workItem from="1546717333681" duration="62000" />
+      <workItem from="1546772019753" duration="391000" />
+      <workItem from="1546898114502" duration="108000" />
+      <workItem from="1547062614443" duration="221000" />
+      <workItem from="1547154973099" duration="322000" />
+      <workItem from="1547226030143" duration="162000" />
+      <workItem from="1547308951083" duration="3491000" />
+      <workItem from="1547377848127" duration="1146000" />
+      <workItem from="1547489857106" duration="1257000" />
+      <workItem from="1547665498574" duration="292000" />
+      <workItem from="1547751348134" duration="1198000" />
+      <workItem from="1548626150282" duration="117000" />
+      <workItem from="1548709012652" duration="757000" />
+      <workItem from="1548881178674" duration="274000" />
+      <workItem from="1548886799418" duration="400000" />
+      <workItem from="1548966081224" duration="595000" />
+      <workItem from="1549047448546" duration="781000" />
+      <workItem from="1549107942426" duration="772000" />
+      <workItem from="1549191871089" duration="252000" />
+      <workItem from="1549316954786" duration="228000" />
+      <workItem from="1549490085036" duration="671000" />
+      <workItem from="1549567419135" duration="2535000" />
+      <workItem from="1550526913845" duration="1521000" />
+      <workItem from="1550694927229" duration="1353000" />
+      <workItem from="1550868436181" duration="1384000" />
+      <workItem from="1550940277724" duration="2936000" />
+      <workItem from="1551026915975" duration="120000" />
+      <workItem from="1551124480404" duration="2594000" />
+      <workItem from="1551299599171" duration="1279000" />
+      <workItem from="1551525205870" duration="2141000" />
+      <workItem from="1551606191122" duration="2993000" />
+      <workItem from="1551898434911" duration="2084000" />
+      <workItem from="1552506277222" duration="3397000" />
+      <workItem from="1553286464210" duration="699000" />
+      <workItem from="1553334934921" duration="2159000" />
+      <workItem from="1553455799419" duration="2141000" />
+      <workItem from="1553550061306" duration="1651000" />
+      <workItem from="1553715088116" duration="328000" />
+      <workItem from="1553885533606" duration="87000" />
+      <workItem from="1553934078286" duration="3627000" />
+      <workItem from="1554326218549" duration="1186000" />
+      <workItem from="1554327812005" duration="745000" />
+      <workItem from="1554396575049" duration="684000" />
+      <workItem from="1554489805001" duration="3918000" />
+      <workItem from="1554539963235" duration="1017000" />
+      <workItem from="1555014453835" duration="1194000" />
+      <workItem from="1555149913964" duration="1733000" />
+      <workItem from="1555359471976" duration="1382000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="213852000" />
+    <option name="totallyTimeSpent" value="296935000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.32260373" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30686694" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3287841" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5942928" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4280397" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3287841" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49713877" weight="0.32009926" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49713877" weight="0.38709676" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5028612" side_tool="true" weight="0.41666666" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
@@ -683,30 +731,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/array.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="515" column="8" selection-start-line="515" selection-start-column="8" selection-end-line="515" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/20180503.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/object.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="26" column="4" selection-start-line="26" selection-start-column="4" selection-end-line="26" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/builtin.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="269" selection-start-line="269" selection-end-line="269" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex16_part2.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -724,9 +748,6 @@
     <entry file="file://$PROJECT_DIR$/23:46&#10;some folks try to multiply&#10;from sunrise to sunset&#10;to leave behind most of their kind&#10;so no-one will forget&#10;&#10;sans puts text, we're down to 5 lines of code&#10;" />
     <entry file="file://$PROJECT_DIR$/23:15&#10;some folks try to multiply&#10;from sunrise to sunset&#10;to leave behind most of their kind&#10;so no-one will forget&#10;&#10;sans puts text, we're down to 5 lines of code&#10;" />
     <entry file="file://$PROJECT_DIR$/20180429">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test2.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/ex15-1.txt">
@@ -748,13 +769,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/worldmachine.txt">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex21.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" selection-start-line="32" selection-end-line="32" selection-end-column="4" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex22.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -826,13 +840,6 @@
     <entry file="file://$PROJECT_DIR$/Maths symbols.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/test.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Random Alembic Epic Pic.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -845,13 +852,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/foo" />
     <entry file="file://$PROJECT_DIR$/fart" />
-    <entry file="file://$PROJECT_DIR$/ex20.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Julian.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -873,21 +873,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test-tickle/README.md">
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="97" selection-start-column="97" selection-end-column="97" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="457">
-            <caret line="34" column="10" selection-start-line="34" selection-start-column="10" selection-end-line="34" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -934,8 +919,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex14.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="150">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -962,15 +947,82 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ex18.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex19.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="16">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex19-1.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dan example.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dan_example_2.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex20.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rfb.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex21.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-tickle/README.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="97" selection-start-column="97" selection-end-column="97" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="60">
+            <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>

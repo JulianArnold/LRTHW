@@ -2,6 +2,14 @@
 
 ## Notes
 
+20190411: ditto, which is OK.  If it takes 6 hours or 6 weeks..
+
+20190403: still on ex21..
+
+20190313: and on to ex21..
+
+20190207: Finally completed all 10 ways to deliver a method def.  On to ex20!
+
 20181107: Checklist:
 
 Did you start your function definition with def?
