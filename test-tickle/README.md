@@ -2,6 +2,8 @@
 
 ## Notes
 
+20190520: finished ex21.rb and remember PEMDAS when writing maths fomulae.  On to ex22..
+
 20190411: ditto, which is OK.  If it takes 6 hours or 6 weeks..
 
 20190403: still on ex21..
