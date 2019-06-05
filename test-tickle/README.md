@@ -2,6 +2,10 @@
 
 ## Notes
 
+20190605: ex8 is interesting 99% of the time ;D
+
+20190530: stopped at ex6 tonight
+
 20190520: finished ex21.rb and remember PEMDAS when writing maths fomulae.  On to ex22..
 
 20190411: ditto, which is OK.  If it takes 6 hours or 6 weeks..

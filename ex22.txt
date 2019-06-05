@@ -1,27 +1,31 @@
 puts "put string" prints a string, number, variable with a new line (can also carriage-return blank).
-print does the same thing.
+print does the same thing except there's no carriage-return.
 "" double quotes, used when there's string interpolation.
 '' single quotes only when there's plain text (no interpolation).
 # hash/octothorpe for creating a single line of commented out text (won't show in code). can also temporarily disable code; can also appear on same line of code at its end for instruction or advisories.
 =begin (press return) =end same thing for blocks of commented-out text.
 .to_s converts to a string.
 .reverse reverses any string or number.
+
 MATHS:
 + will add integers (whole numbers) and floating point 2.00 numbers, can also add two separate strings (concatenate).
 - subtracts integers and floats
 * multiplies them.
 / divides them.
 [1, 2, 3] is an array or list of items in sequential order starting with 0 then 1, 2, 3... can be strings, numbers and combinations of same including variables.
+More MATHS symbols: > is greater than.  < is lesser than.  >= greater than or equal to.  <= less than or equal to.
+% is modulo.  What's 'left over' after a calc.  2 % 5 = 1.
+
+VARIABLES:
 variable points to something, like maths, strings, arrays, hashes.
 .length counts the length of something in characters.
 'this won\'t run, or will it?' backslash is escape key so the single quote won\'t end the string early and cause an error.
 "this won't run" but it will as the double quotes tell ruby there\'s a thing to be read and acted upon within the string.
 "what is 21 - 5 #{21 - 5}?" #{} tells ruby there is MATHS or a calculation to be acted on within a string (interpolation) and the results returned within the string.  Single quotes will cause an error as they only print a string with no calculations performed.
-More MATHS symbols: > is greater than.  < is lesser than.  >= greater than or equal to.  <= less than or equal to.
-% is modulo.  What's 'left over' after a calc.  2 % 5 = 1.
-Varibles 'point' to a thing using '='. Known as an assignment operator.
+Variables 'point' to a thing using '='. Known as an assignment operator.
 Variables can also be PEMDAS'd with each other once they point to a number or an object containing a number (arrays, hashes, other variables, symbols).
 Variables can also point to strings, be joined with other strings using 'concatenation'.
+
 
 
 
