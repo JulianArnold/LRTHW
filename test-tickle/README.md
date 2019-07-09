@@ -2,6 +2,8 @@
 
 ## Notes
 
+20190707: at ex15 and have typed in about open().  Now write about 'read'.  
+
 20190605: ex8 is interesting 99% of the time ;D
 
 20190530: stopped at ex6 tonight

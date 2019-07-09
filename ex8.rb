@@ -11,3 +11,6 @@ puts formatter % {
     third: 'but it didn\'t sing',
     fourth: 'so I said goodnight.'
 }
+
+
+# https://stackoverflow.com/questions/28556946/percent-operator-string-interpolation

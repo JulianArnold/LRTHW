@@ -26,6 +26,23 @@ Variables 'point' to a thing using '='. Known as an assignment operator.
 Variables can also be PEMDAS'd with each other once they point to a number or an object containing a number (arrays, hashes, other variables, symbols).
 Variables can also point to strings, be joined with other strings using 'concatenation'.
 
+% is also used in a format string where % determines the values are supplied in the same sequence as the formatting codes %{} in the format string (ex8).
+
+\ escape character, performs actions on a string without printing or outputting to the screen.  \n = newline, \t = tab, \\ = single backslash
+
+%q behaves like a single quote string (no character escaping or interpolation) %Q behaves like its double quote cousin.
+
+""" on first line and again on the last enables writing a block of text """
+
+INPUT:
+gets.chomp asks for input from the user before proceeding '.to_s' converts to a string, '.to_i' to an integer and '.to_f' to a flaoting point number.
+
+ARGV is the 'argument variable' found in many languages that 'holds' whatever you pass into it and then allows one or more variables to point to it.  Kinda like parameters in method definitions.
+$stdin is 'standard input'used with kernel#gets (.gets) as ARGV and #gets don't work well together so $stdin is more explicit.  ARGV can take in files and text where $stdin takes in just text..
+
+.first when applied to ARGV takes in only the very first item passed into it, even f there's a 100 typed in.  A character '> ' can be used as a prompt.
+
+open() is a method that has two main functions: 1- opens a file and 2- assigns an object to that filename i.e. File.open and File.new.  Another difference is File.open can be associated with a block unlike File.new.
 
 
 
