@@ -42,7 +42,14 @@ $stdin is 'standard input'used with kernel#gets (.gets) as ARGV and #gets don't 
 
 .first when applied to ARGV takes in only the very first item passed into it, even f there's a 100 typed in.  A character '> ' can be used as a prompt.
 
-open() is a method that has two main functions: 1- opens a file and 2- assigns an object to that filename i.e. File.open and File.new.  Another difference is File.open can be associated with a block unlike File.new.
+open() is a method that has two main functions: 1- opens a file and 2- assigns an object to that filename i.e. File.open and File.new.  Another difference is File.open can be associated with a block unlike File.new.  In the parentheses, a 'w' tells open() you're going to write to the file. variable.write() with strings and str interpolation #{} places the physical text into the object.  then variable.close closes the still-open file.
+
+'read' is a method called on any variable pointing to an open()'ed file.  It returns the contents of the opened file as a string.
+
+File.exist?() checks if a file exists; returns true if yes, false if no.
+
+
+
 
 
 

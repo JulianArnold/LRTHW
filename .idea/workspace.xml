@@ -7,8 +7,6 @@
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex22.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex8.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex8.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <ignored path="Programs.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -73,7 +71,7 @@
     <session id="-735042447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="125" />
+          <entry key="project.closed" value="128" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
@@ -82,13 +80,13 @@
           <entry key="project.open.time.14" value="8" />
           <entry key="project.open.time.15" value="15" />
           <entry key="project.open.time.16" value="5" />
-          <entry key="project.open.time.17" value="6" />
+          <entry key="project.open.time.17" value="7" />
           <entry key="project.open.time.18" value="8" />
           <entry key="project.open.time.19" value="15" />
           <entry key="project.open.time.2" value="8" />
           <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.22" value="5" />
+          <entry key="project.open.time.22" value="6" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="1" />
@@ -100,7 +98,7 @@
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="133" />
+          <entry key="project.opened" value="135" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -108,13 +106,13 @@
           <entry key="Julian" value="30" />
           <entry key="md" value="524" />
           <entry key="rb" value="25544" />
-          <entry key="txt" value="4041" />
+          <entry key="txt" value="4568" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Markdown" value="524" />
-          <entry key="PLAIN_TEXT" value="4071" />
+          <entry key="PLAIN_TEXT" value="4598" />
           <entry key="Ruby" value="25544" />
         </counts>
       </usages-collector>
@@ -122,18 +120,18 @@
         <counts>
           <entry key="Julian" value="3" />
           <entry key="cv" value="2" />
-          <entry key="ex17_original" value="2" />
+          <entry key="ex17_original" value="4" />
           <entry key="ex8" value="1" />
           <entry key="md" value="5" />
-          <entry key="rb" value="63" />
+          <entry key="rb" value="68" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Markdown" value="5" />
-          <entry key="PLAIN_TEXT" value="14" />
-          <entry key="Ruby" value="63" />
+          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="Ruby" value="68" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.actions.runAnything" />
@@ -161,10 +159,10 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/ex15.rb">
+            <entry file="file://$PROJECT_DIR$/ex18.rb">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="12" selection-start-line="12" selection-end-line="12" />
+                <state relative-caret-position="315">
+                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
                 </state>
               </provider>
             </entry>
@@ -176,8 +174,8 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/ex22.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="481">
-                  <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+                <state relative-caret-position="571">
+                  <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
                 </state>
               </provider>
             </entry>
@@ -196,6 +194,7 @@
       <find>sprintf</find>
       <find>%</find>
       <find>print</find>
+      <find>write</find>
     </findStrings>
     <replaceStrings>
       <replace>#</replace>
@@ -248,8 +247,8 @@
         <option value="$PROJECT_DIR$/ex7.rb" />
         <option value="$PROJECT_DIR$/ex8.rb" />
         <option value="$PROJECT_DIR$/ex13.rb" />
-        <option value="$PROJECT_DIR$/ex22.txt" />
         <option value="$PROJECT_DIR$/test-tickle/README.md" />
+        <option value="$PROJECT_DIR$/ex22.txt" />
       </list>
     </option>
   </component>
@@ -711,17 +710,20 @@
       <workItem from="1562617627663" duration="9000" />
       <workItem from="1562617944915" duration="305000" />
       <workItem from="1562699840883" duration="52000" />
-      <workItem from="1562704228411" duration="92000" />
+      <workItem from="1562704228411" duration="574000" />
+      <workItem from="1562783306218" duration="1020000" />
+      <workItem from="1563219844774" duration="1304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="338104000" />
+    <option name="totallyTimeSpent" value="340910000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17811158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18240343" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -836,13 +838,6 @@
     <entry file="file://$PROJECT_DIR$/Random Alembic Epic Pic.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/file.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="69" column="6" selection-start-line="69" selection-start-column="6" selection-end-line="69" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/foo" />
     <entry file="file://$PROJECT_DIR$/fart" />
     <entry file="file://$PROJECT_DIR$/Julian.txt">
@@ -851,9 +846,6 @@
           <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex17_original">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/new_file.txt">
       <provider selected="true" editor-type-id="text-editor" />
@@ -881,27 +873,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cv">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex16.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex17.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex18.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ex19.rb">
       <provider selected="true" editor-type-id="text-editor">
@@ -1098,7 +1069,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ex15.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex16.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/rubystubs23/file.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1561">
+          <caret line="69" column="2" lean-forward="true" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex22.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="571">
+          <caret line="48" column="47" selection-start-line="48" selection-start-column="47" selection-end-line="48" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test-tickle/README.md">
+      <provider editor-type-id="text-editor">
+        <state>
+          <caret column="97" selection-start-column="97" selection-end-column="97" />
+        </state>
+      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
@@ -1107,23 +1111,21 @@
           <second_editor />
         </state>
       </provider>
-      <provider editor-type-id="text-editor">
-        <state>
-          <caret column="97" selection-start-column="97" selection-end-column="97" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex17_original">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ex17.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ex15.rb">
+    <entry file="file://$PROJECT_DIR$/ex18.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ex22.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
