@@ -18,7 +18,7 @@ More MATHS symbols: > is greater than.  < is lesser than.  >= greater than or eq
 
 VARIABLES:
 variable points to something, like maths, strings, arrays, hashes.
-.length counts the length of something in characters.
+.length counts the length of a thing (usually strings) in characters.
 'this won\'t run, or will it?' backslash is escape key so the single quote won\'t end the string early and cause an error.
 "this won't run" but it will as the double quotes tell ruby there\'s a thing to be read and acted upon within the string.
 "what is 21 - 5 #{21 - 5}?" #{} tells ruby there is MATHS or a calculation to be acted on within a string (interpolation) and the results returned within the string.  Single quotes will cause an error as they only print a string with no calculations performed.
@@ -48,7 +48,29 @@ open() is a method that has two main functions: 1- opens a file and 2- assigns a
 
 File.exist?() checks if a file exists; returns true if yes, false if no.
 
+.truncate() truncates a given text after a given length if text is longer than length.  .slice() is usually recommended though.
 
+*args creates a list of arguments, allows for multiple args at once.
+
+def..end defines a function; usually referred to as a method as it defines or 'instantiates' an instance method.
+
+.seek(0) goes to a given position (as integer) in a stream or file.
+
++= is an incrementer operator.  Short way of adding a number to something so's you are always increasing the number by that amount.  You would also set a limit like >= 'greater than or equal to'
+
+return is a keyword that says: 'must add or subtract or whatnot AND return or show the answer/result', "puts" just prints what you type, it doesn't figure anything out.
+
+.reverse reverses the text or numbers to the left of it.  .capitalize upper-cases the very first letter of the very first word it sees.  .upcase makes capital letters of EVERY single letter and .downcase does the exact opposite.
+
+%w() or %w[] creates an array (a list) or strings (letters, words, sentences) without commas or quotes.  %W is almost the same, it provides double-quotes "" so you can add things like: #{ruby_code} into the string which is like adding more text or numbers from anywhere else in the application.
+
+.slice(0..5) works a little like truncate() in that it chops off letters/numbers at a specific point; in this case, it's after the 6th character (it counts the '0' too)
+
+.inspect takes a look at the things you've just typed, it prints a line describing what they are; string, integer, variable, symbol etc.  Gives it a unique identifier number all in an array.
+
+variable = { name: "Julian", age: "don't ask" } hash, variable pointing to curly braces containing key/value pairs vs. an array which is an indexed list of things.  When called, the key goes from this: to :this and the value can be absolutely ANYTHING (string, number, variable any object)
+
+.values is a method that can convert a hash into an array (or list).
 
 
 

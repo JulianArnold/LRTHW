@@ -2,6 +2,17 @@
 
 ## Notes
 
+20190810: stopped on ex21.rb
+
+20190807: stopped at #9 on ex19-1.rb
+
+```bash
+$ ruby ex19-1.rb
+```
+
+
+20190804: check this out while writing the text: http://ruby-for-beginners.rubymonstas.org/bonus/string_interpolation.html
+
 20190707: at ex15 and have typed in about open().  Now write about 'read'.  
 
 20190605: ex8 is interesting 99% of the time ;D
