@@ -2,6 +2,8 @@
 
 ## Notes
 
+20191014: ex22 done, including re-writing a table.  On to ex23.
+
 20190810: stopped on ex21.rb
 
 20190807: stopped at #9 on ex19-1.rb
