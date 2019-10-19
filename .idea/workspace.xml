@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex22.odt" beforeDir="false" afterPath="$PROJECT_DIR$/ex22.odt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <ignored path="Programs.iws" />
@@ -74,7 +73,7 @@
     <session id="-735042447">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="155" />
+          <entry key="project.closed" value="157" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="3" />
           <entry key="project.open.time.11" value="6" />
@@ -85,11 +84,11 @@
           <entry key="project.open.time.16" value="9" />
           <entry key="project.open.time.17" value="8" />
           <entry key="project.open.time.18" value="10" />
-          <entry key="project.open.time.19" value="16" />
+          <entry key="project.open.time.19" value="17" />
           <entry key="project.open.time.2" value="10" />
           <entry key="project.open.time.20" value="4" />
           <entry key="project.open.time.21" value="6" />
-          <entry key="project.open.time.22" value="7" />
+          <entry key="project.open.time.22" value="8" />
           <entry key="project.open.time.23" value="3" />
           <entry key="project.open.time.24" value="3" />
           <entry key="project.open.time.25" value="1" />
@@ -102,20 +101,20 @@
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="163" />
+          <entry key="project.opened" value="165" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Julian" value="30" />
-          <entry key="md" value="700" />
+          <entry key="md" value="725" />
           <entry key="rb" value="25871" />
           <entry key="txt" value="6987" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Markdown" value="700" />
+          <entry key="Markdown" value="725" />
           <entry key="PLAIN_TEXT" value="7017" />
           <entry key="Ruby" value="25871" />
         </counts>
@@ -154,7 +153,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
               <first_editor relative-caret-position="60">
-                <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+                <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
               </first_editor>
               <second_editor />
             </state>
@@ -735,18 +734,20 @@
       <workItem from="1570122553112" duration="415000" />
       <workItem from="1570644589105" duration="234000" />
       <workItem from="1570908272626" duration="789000" />
-      <workItem from="1571075987119" duration="156000" />
+      <workItem from="1571075987119" duration="435000" />
+      <workItem from="1571421831553" duration="902000" />
+      <workItem from="1571481988405" duration="195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="362935000" />
+    <option name="totallyTimeSpent" value="364311000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26466382" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27181688" />
       <window_info id="Structure" order="1" weight="0.24964234" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -1128,18 +1129,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rubymonstas.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test-tickle/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="60">
-            <caret line="4" column="63" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+            <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
           </first_editor>
           <second_editor />
         </state>
@@ -1147,6 +1141,13 @@
       <provider editor-type-id="text-editor">
         <state>
           <caret column="97" selection-start-column="97" selection-end-column="97" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rubymonstas.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
