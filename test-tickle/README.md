@@ -2,7 +2,18 @@
 
 ## Notes
 
-20191019: started ex23.
+20200223: wrapped up ex23, move on to ex24
+
+20200113: for ex23.rb try this: "https://guides.rubyonrails.org/active_record_querying.html"
+
+20191107: skimmed through the file next door.. 
+
+20191031: reading here: "http://rubylearning.com/satishtalim/ruby_access_control.html" also see ex23.rb.
+
+
+20191019: started ex23.  Main three objectives for this exercise is: 1- Finding Ruby source code for things you need.
+2- Reading through the code and looking for files.  3- Trying to understand the code you find.
+<https://learnrubythehardway.org/book/ex23.html>  
 
 20191014: ex22 done, including re-writing a table.  On to ex23.
 

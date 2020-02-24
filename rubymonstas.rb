@@ -1,11 +1,32 @@
-dictionary = { one: "eins", two: "zwei", three: "drei" }
+class Box
+  def initialize(w, h)
+    @width, @height = w, h
+  end
 
-key = :one
+  def getWidth
+    @width
+  end
 
-translation = dictionary[key]
+  def getHeight
+    @height
+  end
 
-if translation
-  puts "The translation for #{key} is: #{translation}."
-else
-  puts "The dictionary does not define a translation for the key #{key}."
+  def setWidth=(value)
+    @Width = value
+  end
+
+  def setHeight=(value)
+    @height = value
+  end
 end
+
+box = Box.new(10, 20)
+
+box.setWidth = 30
+box.setHeight = 50
+
+x = box.getWidth
+y = box.getHeight
+
+puts "Width of the box is: #{x}"
+puts "Height of the box is: #{y}"
