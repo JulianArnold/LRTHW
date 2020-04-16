@@ -2,6 +2,10 @@
 
 ## Notes
 
+20200324: https://teamtreehouse.com/community/what-is-the-difference-between-puts-vs-return-when-defining-a-method
+
+20200317: practicing e24; almost done with it..  Just ended ex24.. on to ex25!
+
 20200223: wrapped up ex23, move on to ex24
 
 20200113: for ex23.rb try this: "https://guides.rubyonrails.org/active_record_querying.html"
