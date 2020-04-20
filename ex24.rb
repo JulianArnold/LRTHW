@@ -1,34 +1,33 @@
-puts 'Let\'s practice everything..'
+puts "Let's practice everything."
 puts 'You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs.'
 
 poem = <<LEVEL_42
-\tWorld Machine\n
-Some folks try to multiply\nfrom sunrise to sunset
+\tWORLD MACHINE
+Some folks try to multiply
+from sunrise \n\tto sunset
 to leave behind\nmost of their kind
-so no-one \n\t...will forget...
+so no-one\n\t...will forget
 LEVEL_42
 
-puts '_' * 42
+puts '-' * 42
 puts poem
-puts '_' * 42
+puts '-' * 42
 
 five = 10 - 2 + 3 - 6
 puts "This should be five: #{five}"
 
-#--
-
-def secret_formula(started)
-  jelly_beans = started * 500
+def secret_formula(start)
+  jelly_beans = start* 50
   jars = jelly_beans / 1000
   crates = jars / 100
   return jelly_beans, jars, crates
 end
 
-start_point = 10000
+start_point = 10_000
 beans, jars, crates = secret_formula(start_point)
 
-puts "With a starting point of #{start_point}.."
-puts "We'd have #{beans} beans, #{jars} jars and #{crates} crates."
+puts "With a starting point of: #{start_point}"
+puts "We'd have #{beans} beans, #{jars} and #{crates} crates."
 
 start_point /= 10
 

@@ -2,6 +2,8 @@
 
 ## Notes
 
+20200416: end in sight for ex25..  ex26 is a test of ex 24 & 25 so mebbe a little teeny tiny amount of revision.
+
 20200324: https://teamtreehouse.com/community/what-is-the-difference-between-puts-vs-return-when-defining-a-method
 
 20200317: practicing e24; almost done with it..  Just ended ex24.. on to ex25!
