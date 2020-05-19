@@ -2,6 +2,10 @@
 
 ## Notes
 
+20200505: completed the week of memorizing logic, now on to ex28 Julian's Boolean.
+
+20200421: completed Ex25 and Ex26 was a test of both 24 and 25.  Next up is logic with Ex27.
+
 20200416: end in sight for ex25..  ex26 is a test of ex 24 & 25 so mebbe a little teeny tiny amount of revision.
 
 20200324: https://teamtreehouse.com/community/what-is-the-difference-between-puts-vs-return-when-defining-a-method

@@ -1,44 +1,66 @@
-module Ex26
-	def self.break_words(stuff)
-		# This function will break up words for us.
-    	words = stuff.split(' ')
-    	words
-	end
-	
-	def self.sort_words(words)
-		# Sorts the words.
-    	words.sort()
-	end
+# tested and corrected 20200420:2251
 
-	def self.print_first_word(words)
-		# Prints the first word and shifts the others down by one
-		word = words.shift()
-		puts word
-	end
+module Ex25
 
-	def self.print_last_word(words)
-		# Prints the last word after popping it off the end
-    	word = words.pop()
-    	puts word
-	end
+  # This function will break up words for us.
+  def Ex25.break_words(stuff)
+    word = stuff.split(' ')
+    return word
+  end
 
-	def self.sort_sentence(sentence)
-		# Takes in a full sentence and returns the sorted words alphabetically
-    	words = break_words(sentence)
-    	sort_words(words)
-	end
+  # Sorts the words.
+  def Ex25.sort_words(words)
+    return words.sort
+  end
 
-	def self.print_first_and_last(sentence)
-		# Prints the first and last words of the sentence.
-    	words = break_words(sentence)
-    	print_first_word(words)
-    	print_last_word(words)
-	end
+  # Prints the first word after shifting it off.
+  def Ex25.print_first_word(words)
+    word = words.shift
+    puts word
+  end
 
-	def self.print_first_and_last_sorted(sentence)
-		# Sorts the words then prints the first and last one.
-    	words = sort_sentence(sentence)
-    	print_first_word(words)
-    	print_last_word(words)
-	end
+  # Prints the last word after popping it off.
+  def Ex25.print_last_word(words)
+    word = words.pop
+    puts word
+  end
+
+  # Takes in a full sentence and returns the sorted words.
+  def Ex25.sort_sentence(sentence)
+    words = Ex25.break_words(sentence)
+    return Ex25.sort_words(words)
+  end
+
+  # Prints the first and last words of the sentence.
+  def Ex25.print_first_and_last(sentence)
+    words = Ex25.break_words(sentence)
+    Ex25.print_first_word(words)
+    Ex25.print_last_word(words)
+  end
+
+  # Sorts the words then prints the first and last one.
+  def Ex25.print_first_and_last_sorted(sentence)
+    words = Ex25.sort_sentence(sentence)
+    Ex25.print_first_word(words)
+    Ex25.print_last_word(words)
+  end
+
 end
+
+
+#--
+
+=begin
+  sentence = "All good things come to those who wait."
+  words = Ex25.break_words(sentence)
+  words
+  sorted_words = Ex25.sort_words(words)
+  sorted_words
+  Ex25.print_first_word(words)
+  Ex25.print_last_word (words)
+  Ex25.print_first_word(sorted_words)
+  Ex25.print_last_word(sorted_words)
+  sorted_words = Ex25.sort_sentence(sentence)
+  Ex25.print_first_and_last(sentence)
+  Ex25.print_first_and_last_sorted(sentence)
+=end
