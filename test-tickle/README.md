@@ -2,6 +2,8 @@
 
 ## Notes
 
+20200519: currently on ex29, repeat and reload!
+
 20200505: completed the week of memorizing logic, now on to ex28 Julian's Boolean.
 
 20200421: completed Ex25 and Ex26 was a test of both 24 and 25.  Next up is logic with Ex27.
