@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex29.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex29.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex30.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex30.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex31.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex31.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,7 +95,13 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ruby ex31.rb" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -108,7 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.ex29">
+  <component name="RunManager" selected="Ruby.ex31">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -138,7 +145,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="ex24" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex11" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -152,11 +159,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex24.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex11.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex25command_line" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex12" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -170,11 +177,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex25.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex12.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex26_02" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex31" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -188,11 +195,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex26_02.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex31.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex28" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex7" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -206,11 +213,11 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex28.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex7.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex29" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ruby ex31.rb" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -224,7 +231,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex29.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex31.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -238,19 +245,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.ex24" />
-      <item itemvalue="Ruby.ex25command_line" />
-      <item itemvalue="Ruby.ex26_02" />
-      <item itemvalue="Ruby.ex28" />
-      <item itemvalue="Ruby.ex29" />
+      <item itemvalue="Ruby.ex31" />
+      <item itemvalue="Ruby.ex11" />
+      <item itemvalue="Ruby.ex7" />
+      <item itemvalue="Ruby.ex12" />
+      <item itemvalue="Ruby.ruby ex31.rb" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.ex29" />
-        <item itemvalue="Ruby.ex28" />
-        <item itemvalue="Ruby.ex26_02" />
-        <item itemvalue="Ruby.ex24" />
-        <item itemvalue="Ruby.ex25command_line" />
+        <item itemvalue="Ruby.ex31" />
+        <item itemvalue="Ruby.ruby ex31.rb" />
+        <item itemvalue="Ruby.ex12" />
+        <item itemvalue="Ruby.ex7" />
+        <item itemvalue="Ruby.ex11" />
       </list>
     </recent_temporary>
   </component>
@@ -673,7 +680,29 @@
       <workItem from="1589459803514" duration="692000" />
       <workItem from="1589565637915" duration="1928000" />
       <workItem from="1589918548277" duration="2834000" />
-      <workItem from="1589997286797" duration="1988000" />
+      <workItem from="1589997286797" duration="2546000" />
+      <workItem from="1590077890413" duration="1053000" />
+      <workItem from="1590227537657" duration="199000" />
+      <workItem from="1590433722914" duration="2833000" />
+      <workItem from="1590512070349" duration="2428000" />
+      <workItem from="1590598022929" duration="595000" />
+      <workItem from="1590603961667" duration="742000" />
+      <workItem from="1590690029607" duration="2049000" />
+      <workItem from="1590782419661" duration="1587000" />
+      <workItem from="1591106241423" duration="1393000" />
+      <workItem from="1591273873451" duration="4905000" />
+      <workItem from="1591303072245" duration="2094000" />
+      <workItem from="1591361372149" duration="4020000" />
+      <workItem from="1591538293030" duration="1038000" />
+      <workItem from="1591641391317" duration="1953000" />
+      <workItem from="1591811552300" duration="1459000" />
+      <workItem from="1591981624455" duration="3272000" />
+      <workItem from="1592244924630" duration="10000" />
+      <workItem from="1592249962312" duration="216000" />
+      <workItem from="1592333476780" duration="3113000" />
+      <workItem from="1592499129834" duration="993000" />
+      <workItem from="1592512840658" duration="2553000" />
+      <workItem from="1592856239607" duration="2756000" />
     </task>
     <servers />
   </component>
@@ -711,6 +740,13 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programs@ex31.rcov" NAME="ex31 Coverage Results" MODIFIED="1592862990698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ruby_ex31_rb.rcov" NAME="ruby ex31.rb Coverage Results" MODIFIED="1591371512511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex11.rcov" NAME="ex11 Coverage Results" MODIFIED="1591362447429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex7.rcov" NAME="ex7 Coverage Results" MODIFIED="1591362572454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex29.rcov" NAME="ex29 Coverage Results" MODIFIED="1590013893964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex30.rcov" NAME="ex30 Coverage Results" MODIFIED="1590782700877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@times_tables.rcov" NAME="times_tables Coverage Results" MODIFIED="1590783778047" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex12.rcov" NAME="ex12 Coverage Results" MODIFIED="1591362592342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
   </component>
 </project>

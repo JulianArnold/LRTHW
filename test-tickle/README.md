@@ -2,6 +2,10 @@
 
 ## Notes
 
+20200529: finished ex30 and moved on to ex31
+
+20200520: started on ex30
+
 20200519: currently on ex29, repeat and reload!
 
 20200505: completed the week of memorizing logic, now on to ex28 Julian's Boolean.
