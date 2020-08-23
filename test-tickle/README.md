@@ -2,6 +2,8 @@
 
 ## Notes
 
+20200625: study drills: https://jamesbond.fandom.com/wiki/Operations_and_Projects
+
 20200529: finished ex30 and moved on to ex31
 
 20200520: started on ex30

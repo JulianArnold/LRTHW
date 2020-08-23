@@ -1,33 +1,27 @@
-the_count = [1, 2, 3, 4, 5]
-fruits = ['apples', 'oranges', 'pears', 'apricots']
-change = [1, 'pennies', 2, 'dimes', 3, 'quarters']
+the_count = [5, 4, 3, 2, 1].reverse
+fruits = %w[apples oranges peaches pears grapes bananas mangoes]
+change = {1 => 'pennies', 2 => 'dimes', 3 => 'quarters'}
 
-# this first kind of for-loops goes through an array
-for number in the_count
-	puts "This is count #{number}"
+the_count.each do |number|
+  puts "The count is: #{number}"
 end
 
-# same as above, but using a block instead
+fruits.push('strawberries')
+fruits.push('raspberries')
+fruits.push('watermelons')
+fruits << 'kiwis'
+
 fruits.each do |fruit|
-	puts "A fruit of type: #{fruit}"
+  puts "A fruit of type: #{fruit}"
 end
 
-# also we can go through mixed arrays too
-for i in change
-	puts "I got #{i}"
-end
+change.each { |i| puts "I've got #{i}" }
 
-# we can also build arrays, first start with an empty one
 elements = []
 
-# then use a range object to do 0 to 5 counts
-for i in (0..5)
-	puts "Adding #{i} to the list."
-	# push is a function that arrays understand
-	elements.push(i)
+(0..5).each do |i|
+  puts "Adding #{i} to the list.."
+  elements << i
 end
 
-# now we can puts them out too
-for i in elements
-	puts "Element was: #{i}"
-end
+elements.each { |i| puts "Element was: #{i}" }
