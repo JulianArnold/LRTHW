@@ -2,6 +2,22 @@
 
 ## Notes
 
+20201022: while on ex35, have a read of exit() https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here/
+
+20201012: still on ex35, remember this workaround..
+
+```bash
+    if choice =~ /\d+/  #'Fn' key + '~ #' gives you a backslash
+      how_much = choice.to_i
+    else
+      dead('Man, learn to type a number!')	
+    end
+```
+
+20201005: completed ex34 and started on ex35
+
+20200907: Been on ex33 for a couple of weeks.  Going well, is about while loops and ranges
+
 20200625: study drills: https://jamesbond.fandom.com/wiki/Operations_and_Projects
 
 20200529: finished ex30 and moved on to ex31
