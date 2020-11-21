@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Julian's Results - Test.html" beforeDir="false" afterPath="$PROJECT_DIR$/Julian's Results - Test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_ex35.rb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex33.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex33.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex34.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex34.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex35.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex35.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -779,7 +774,10 @@
       <workItem from="1605204347581" duration="689000" />
       <workItem from="1605291209558" duration="255000" />
       <workItem from="1605451311839" duration="3818000" />
-      <workItem from="1605550178281" duration="2609000" />
+      <workItem from="1605550178281" duration="3079000" />
+      <workItem from="1605633190676" duration="880000" />
+      <workItem from="1605810009793" duration="594000" />
+      <workItem from="1605897813677" duration="875000" />
     </task>
     <servers />
   </component>
@@ -831,7 +829,7 @@
     <SUITE FILE_PATH="coverage/Programs@ex34.rcov" NAME="ex34 Coverage Results" MODIFIED="1601920243694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex20.rcov" NAME="ex20 Coverage Results" MODIFIED="1599757274054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex24.rcov" NAME="ex24 Coverage Results" MODIFIED="1599757431817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex35.rcov" NAME="ex35 Coverage Results" MODIFIED="1605558603455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex35.rcov" NAME="ex35 Coverage Results" MODIFIED="1605634624125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex30.rcov" NAME="ex30 Coverage Results" MODIFIED="1599757692717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex12.rcov" NAME="ex12 Coverage Results" MODIFIED="1591362592342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex33.rcov" NAME="ex33 Coverage Results" MODIFIED="1600187363746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
