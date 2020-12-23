@@ -32,7 +32,7 @@ def bear_room
     if choice == "take honey"
       dead("The bear looks at you a rips your face off!")
     elsif choice == "taunt bear" && !bear_moved
-      puts "The bear has moved from the door, you can through it now.."
+      puts "The bear has moved from the door, you can go through it now.."
       bear_moved = true
     elsif choice == "taunt bear" && bear_moved
       dead("The bear gets pissed off and chews off your leg")
