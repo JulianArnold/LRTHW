@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210121: finishing ex35 and starting ex36
+
 20201022: while on ex35, have a read of exit() https://www.sitepoint.com/exit-exit-abort-raise-get-me-outta-here/
 
 20201012: still on ex35, remember this workaround..

@@ -1,5 +1,5 @@
 def gold_room
-  puts "This room is full of gold.  How much will you take?"
+  puts "This room is full of gold, how much will you take?"
 
   print "> "
   choice = $stdin.gets.chomp
@@ -11,7 +11,7 @@ def gold_room
   end
 
   if how_much < 50
-    puts "That's not greedy, you win!"
+    puts "Nice, you're not greedy, you win!"
     exit(0)
   else
     dead("Now, that's just greedy!")
@@ -19,35 +19,35 @@ def gold_room
 end
 
 def bear_room
-  puts "There's a bear in here!"
-  puts "He has a pot of honey.."
-  puts "The large bear sits in front of another door.."
-  puts "How will you move the bear?"
-  bear_moved = false
+  puts "There is a bear here!"
+  puts "He has a large pot of honey.."
+  puts "This large bear is also in front of a door.."
+  puts "How will you get him to move?"
+  bear_moved = false # variable points to false
 
   while true
     print "> "
     choice = $stdin.gets.chomp
 
     if choice == "take honey"
-      dead("The bear looks at you a rips your face off!")
-    elsif choice == "taunt bear" && !bear_moved
-      puts "The bear has moved from the door, you can go through it now.."
-      bear_moved = true
+      dead("The bear looks at you then slaps your face off!")
+    elsif choice == "taunt bear" && !bear_moved # variable == true
+      puts "The bear moved, you can go through now.."
+      bear_moved = true # weirdly it completely resets from 0 if you use a different variable pointing to true
     elsif choice == "taunt bear" && bear_moved
-      dead("The bear gets pissed off and chews off your leg")
+      dead("The bear gets pissed off and chews your leg off..")
     elsif choice == "open door" && bear_moved
       gold_room
     else
-      puts "I don't know what that means, please try again"
+      puts "I've no idea what that means.."
     end
   end
 end
 
 def cthulhu_room
-  puts "Here you see the great, evil Cthulhu"
-  puts "He, it whatever stares at you and you go insane"
-  puts "Do you flee for your life or eat your head?"
+  puts "Here you see the great evil Cthulhu!"
+  puts "He, it or whatever stares at you and you go insane!"
+  puts "Do you flee for your life or eat your own head?"
 
   print "> "
   choice = $stdin.gets.chomp
@@ -55,7 +55,7 @@ def cthulhu_room
   if choice.include? "flee"
     start
   elsif choice.include? "head"
-    dead("Well, that was tasty")
+    dead("Well, that was tasty!")
   else
     cthulhu_room
   end
@@ -67,9 +67,9 @@ def dead(why)
 end
 
 def start
-  puts "You are in a dark room"
-  puts "There are doors to your left and to your right"
-  puts "Which one do you take?"
+  puts "Hello.  You are in a dark room.."
+  puts "There is a door to your left and one to your right.."
+  puts "Which one do you take..?"
 
   print "> "
   choice = $stdin.gets.chomp
@@ -79,7 +79,7 @@ def start
   elsif choice == "right"
     cthulhu_room
   else
-    dead("You stumble around until you starve")
+    dead("You stumble around the room until you starve..")
   end
 end
 
