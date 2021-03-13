@@ -2,6 +2,14 @@
 
 ## Notes
 
+20210222: have bones of a diagram, now need a to-do list to go through
+
+20210216: about to start the map (drawing) of the Bond game
+
+20210209: hand-written most of the game which is a multiple-choice variant of the Bond film: The Living Daylights.  
+Have listed the actors, the places, the villains and the locations.  Have also added gadgets and plot devices.
+Now need a to-do list and a map.
+
 20210126: started reading through the list of rules for if statements, loops and debugging..
 
 20210121: finishing ex35 and starting ex36
