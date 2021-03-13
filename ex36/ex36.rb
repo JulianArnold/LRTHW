@@ -1,5 +1,28 @@
+require "./afghanistan.rb"
+require "./bratislava.rb"
+require "./gibraltar.rb"
+require "./tangier.rb"
+require "./vienna.rb"
+
+# def q_branch
+# def two_weeks_leave
+
 def uk
-  dead("crashed the Aston")
+  puts "You have a quick chat with M on the plane"
+  puts "He offered you two choices"
+  puts "1. Go back to London, pick up the Aston from Q"
+  puts "2. Stay on the plane"
+
+  print "007> "
+  choice = $stdin.gets.chomp
+
+  if choice == "1"
+    start # write a new method for Q branch above
+  elsif choice == "2"
+    dead("Fly back to London, visit Q and pick up the Aston")
+  else
+    uk
+  end
 end
 
 def gibraltar
@@ -9,12 +32,16 @@ def gibraltar
   puts "Do you return to the exercise or go back to London?"
 
   print "007> "
-  choice = $stdin.gets.chomp
+  choice = $stdin.gets.chomp.downcase
 
-  if choice.include? "return"
+  if choice.include?("mission") || choice.include?("istanbul")
     start
+  elsif choice.include? "return"
+    Gibraltar.impostor
   elsif choice.include? "london"
     uk
+  else
+    dead("...if you wait too long, 008 replaces you...")
   end
 end
 
@@ -32,10 +59,12 @@ def start
   puts "Do you jump or do you stay?"
 
   print "007> "
-  choice = $stdin.gets.chomp
+  choice = $stdin.gets.chomp.downcase
 
   if choice == "jump"
-
+    gibraltar
+  elsif choice == "stay"
+    uk
   else
     dead("Parachute fails! ")
   end
