@@ -27,25 +27,31 @@ module Gibraltar
     print "007> "
     choice = $stdin.gets.chomp.downcase
 
-    if choice.include? "jump"
-      puts "Bond lands on the roof of the car, Bond pulls a knife and slices into the canvas top"
-      puts "A fight starts, Bond grabs the wheel avoiding tourists..  do you smell smoke?"
-      puts "Do you pull the rip cord or try to save the impostor?"
+    if choice.include?("jump") || choice.include?("roof")
+      Gibraltar.rock_chase
     elsif choice.include? "fall"
       dead("...you fell off the Land Rover 007?")
-    elsif choice.include? "save"
-      dead("Ain't coming back from this one..")
-    elsif choice.include? "cord"
-      Gibraltar.rock_chase
     else
-      exit(0)
+      start
     end
   end
 
-  def Gibraltar.rock_chase # all works up to this point with no errors
+  def Gibraltar.rock_chase
     puts "The impostor is killed when the explosives blow up as he plummets from the Rock of Gibraltar."
     puts "Bond escapes using a parachute, and is able to land safely onto a nearby ship."
-    puts ""
+    puts "There is a beautiful woman sipping champagne whilst on the phone..  she offers you a glass"
+    puts "Do you take the phone or the glass of champagne?"
+
+    print "007> "
+    choice = $stdin.gets.chomp.downcase
+
+    if choice.include?("glass") || choice.include?("champagne")
+      uk
+    elsif choice.include? "phone"
+      Bratislava.sniper
+    else
+      dead("Not a good choice 007")
+    end
   end
 
 

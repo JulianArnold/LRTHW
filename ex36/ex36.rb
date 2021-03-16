@@ -8,7 +8,7 @@ require "./vienna.rb"
 # def two_weeks_leave
 
 def uk
-  puts "You have a quick chat with M on the plane"
+  puts "You have a quick chat with M"
   puts "He offered you two choices"
   puts "1. Go back to London, pick up the Aston from Q"
   puts "2. Stay on the plane"

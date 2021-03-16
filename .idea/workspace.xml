@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex25.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex25.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex36/bratislava.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/bratislava.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex36/ex36.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/ex36.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex36/gibraltar.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/gibraltar.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -849,7 +849,9 @@
       <workItem from="1615234346830" duration="1920000" />
       <workItem from="1615325108961" duration="1925000" />
       <workItem from="1615488471643" duration="4567000" />
-      <workItem from="1615647360011" duration="595000" />
+      <workItem from="1615647360011" duration="1041000" />
+      <workItem from="1615830742740" duration="2568000" />
+      <workItem from="1615921949943" duration="1457000" />
     </task>
     <servers />
   </component>
@@ -892,7 +894,7 @@
     <SUITE FILE_PATH="coverage/Programs@ex25_2.rcov" NAME="ex25_2 Coverage Results" MODIFIED="1599757509019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex28.rcov" NAME="ex28 Coverage Results" MODIFIED="1599757607627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex32.rcov" NAME="ex32 Coverage Results" MODIFIED="1599757869108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex36.rcov" NAME="ex36 Coverage Results" MODIFIED="1615501068861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex36.rcov" NAME="ex36 Coverage Results" MODIFIED="1615933407037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex11.rcov" NAME="ex11 Coverage Results" MODIFIED="1591362447429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex7.rcov" NAME="ex7 Coverage Results" MODIFIED="1591362572454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex29.rcov" NAME="ex29 Coverage Results" MODIFIED="1599757669343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />

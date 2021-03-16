@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210313: well on now; am writing the first of 5 modules which are all based on geographical locations
+
 20210222: have bones of a diagram, now need a to-do list to go through
 
 20210216: about to start the map (drawing) of the Bond game
