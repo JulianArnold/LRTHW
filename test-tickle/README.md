@@ -2,6 +2,12 @@
 
 ## Notes
 
+20210318: Gibraltar looks done for now, started Q-branch method def.
+
+20210317: Happy St. Paddy's!  check out this site: https://www.movie-locations.com/movies/l/Living-Daylights.php
+
+20210316: started Bratislava module and corrected the rock_chase method; was far too long
+
 20210313: well on now; am writing the first of 5 modules which are all based on geographical locations
 
 20210222: have bones of a diagram, now need a to-do list to go through

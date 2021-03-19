@@ -4,8 +4,17 @@ require "./gibraltar.rb"
 require "./tangier.rb"
 require "./vienna.rb"
 
-# def q_branch
 # def two_weeks_leave
+
+def q_branch # stopped here
+  puts "You arrive into Q Branch and Q bops his head as he exits the Aston Martin, 'mind your head!' you wryly say. "
+  puts "'Ah, 007 we're just winterizing this' [as the technicians gingerly lower the metal roof]"
+  puts "Q shows you the explosive key-ring finder and the Ghetto-blaster [portable stereo disguises an RPG]"
+  puts "Moneypenny beckons; you walk into the glass computer room and you watch the scrolling bios of know killers"
+  puts ""
+  puts ""
+  puts ""
+end
 
 def uk
   puts "You have a quick chat with M"

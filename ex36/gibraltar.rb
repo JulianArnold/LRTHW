@@ -53,7 +53,4 @@ module Gibraltar
       dead("Not a good choice 007")
     end
   end
-
-
-
 end
