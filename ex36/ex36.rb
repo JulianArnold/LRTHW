@@ -14,9 +14,23 @@ def q_branch
   puts "Moneypenny beckons; you walk into the glass computer room and you watch the scrolling bios of known killers"
   puts "Looking like a dead-end and following the ghetto-blaster demo, Moneypenny says M wants you at Blayden"
   puts "Stopping at Harrods, you peek inside the hamper and you see 'questionable' brands of food & booze"
-  puts "Remember, enter your name before changing the contents of the hamper..."
-  # here you can use ex14 as a guide..
-  # 20210322: stopped here
+  puts "Remember, enter your name at the >prompt< before changing the contents of the hamper..."
+  puts ""
+
+  print "Please enter your name: "
+  user_name = $stdin.gets.chomp
+  print "007> "
+
+  puts "Welcome to Harrods #{user_name}"
+  puts "We offer many types of food, beverage and tobacco in each of our hampers."
+  puts "Firstly #{user_name}, what food would you like to see?"
+  print "007> "
+  hamper = []
+
+
+  # here you can use ex32 & ex14 as guides..
+  # 20210325: stopped here
+
 end
 
 def uk
@@ -29,7 +43,7 @@ def uk
   choice = $stdin.gets.chomp
 
   if choice == "1"
-    start # write a new method for Q branch above
+    q_branch # write a new method for Q branch above
   elsif choice == "2"
     dead("Fly back to London, visit Q and pick up the Aston")
   else
