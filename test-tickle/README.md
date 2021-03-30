@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210322: added to q_branch and will adapt ex14 for this method
+
 20210318: Gibraltar looks done for now, started Q-branch method def.
 
 20210317: Happy St. Paddy's!  check out this site: https://www.movie-locations.com/movies/l/Living-Daylights.php

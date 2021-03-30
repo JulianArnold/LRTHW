@@ -24,12 +24,28 @@ def q_branch
   puts "Welcome to Harrods #{user_name}"
   puts "We offer many types of food, beverage and tobacco in each of our hampers."
   puts "Firstly #{user_name}, what food would you like to see?"
+  food_name = $stdin.gets.chomp
   print "007> "
-  hamper = []
+  food = []
 
+  food_name.tap do |f|
+    puts "adding #{f} to the hamper"
+    food.push(f)
+  end
 
+  puts "Next #{user_name}, we add a beverage.  What would like to add?"
+  drink_name = $stdin.gets.chomp
+  print "007> "
+  drink = []
+
+  drink_name.tap do |d|
+    puts "adding #{d} to the hamper"
+    drink.push(d)
+  end
+
+  print "007> "
   # here you can use ex32 & ex14 as guides..
-  # 20210325: stopped here
+  # 20210329: stopped here
 
 end
 
