@@ -17,25 +17,28 @@ def q_branch
   puts "Remember, enter your name at the >prompt< before changing the contents of the hamper..."
   puts ""
 
-  print "Please enter your name: "
+  print "007> Please enter your name: "
   user_name = $stdin.gets.chomp
   print "007> "
 
   puts "Welcome to Harrods #{user_name}"
   puts "We offer many types of food, beverage and tobacco in each of our hampers."
   puts "Firstly #{user_name}, what food would you like to see?"
-  food_name = $stdin.gets.chomp
   print "007> "
+  food_name = $stdin.gets.chomp
   food = []
 
   food_name.tap do |f|
     puts "adding #{f} to the hamper"
     food.push(f)
   end
+  # here you can use ex32 & ex14 as guides..
+
+  print "007> "
 
   puts "Next #{user_name}, we add a beverage.  What would like to add?"
-  drink_name = $stdin.gets.chomp
   print "007> "
+  drink_name = $stdin.gets.chomp
   drink = []
 
   drink_name.tap do |d|
@@ -44,9 +47,17 @@ def q_branch
   end
 
   print "007> "
-  # here you can use ex32 & ex14 as guides..
-  # 20210329: stopped here
 
+  puts "Finally #{user_name}, we'll add some tobacco.  What would like to include?"
+  print "007> "
+  tobacco_name = $stdin.gets.chomp
+  tobacco = []
+
+  tobacco_name.tap do |t|
+    puts "adding #{t} to the hamper"
+    tobacco.push(t)
+  end
+  # stopped here on 20210330
 end
 
 def uk
