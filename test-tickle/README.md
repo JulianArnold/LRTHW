@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210406: fixed snafu with if statement with q_branch and now it looks to be done.
+
 20210322: added to q_branch and will adapt ex14 for this method
 
 20210318: Gibraltar looks done for now, started Q-branch method def.

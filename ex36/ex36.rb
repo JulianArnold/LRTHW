@@ -16,48 +16,41 @@ def q_branch
   puts "Stopping at Harrods, you peek inside the hamper and you see 'questionable' brands of food & booze"
   puts "Remember, enter your name at the >prompt< before changing the contents of the hamper..."
   puts ""
+  prompt = "007> "
 
-  print "007> Please enter your name: "
+  print prompt, " Please enter your name: "
   user_name = $stdin.gets.chomp
-  print "007> "
+  print prompt
 
   puts "Welcome to Harrods #{user_name}"
   puts "We offer many types of food, beverage and tobacco in each of our hampers."
   puts "Firstly #{user_name}, what food would you like to see?"
-  print "007> "
-  food_name = $stdin.gets.chomp
-  food = []
+  print prompt
+  food = $stdin.gets.chomp
 
-  food_name.tap do |f|
-    puts "adding #{f} to the hamper"
-    food.push(f)
+  puts "Next #{user_name}, what beverage would you like to add"
+  print prompt
+  drink = $stdin.gets.chomp
+
+  puts "Finally #{user_name}, would you like to choose some tobacco?"
+  print prompt
+  tobacco = $stdin.gets.chomp
+
+  puts """
+  Alright #{user_name}, thank you.
+  For food you chose #{food}.
+  For a beverage you chose #{drink}.
+  Finally #{user_name}, you chose #{tobacco} for your tobacco options.
+  """
+
+  if user_name.empty?
+    start
+  elsif user_name.length < 2
+    uk
+  else
+    dead("I think I have indigestion!")
   end
-  # here you can use ex32 & ex14 as guides..
-
-  print "007> "
-
-  puts "Next #{user_name}, we add a beverage.  What would like to add?"
-  print "007> "
-  drink_name = $stdin.gets.chomp
-  drink = []
-
-  drink_name.tap do |d|
-    puts "adding #{d} to the hamper"
-    drink.push(d)
-  end
-
-  print "007> "
-
-  puts "Finally #{user_name}, we'll add some tobacco.  What would like to include?"
-  print "007> "
-  tobacco_name = $stdin.gets.chomp
-  tobacco = []
-
-  tobacco_name.tap do |t|
-    puts "adding #{t} to the hamper"
-    tobacco.push(t)
-  end
-  # stopped here on 20210330
+  # currently here on 20210406
 end
 
 def uk
@@ -80,9 +73,9 @@ end
 
 def gibraltar
   puts "You decided to stay on the plane"
-  puts "M is undecided as an important mission has come up in Istanbul"
+  puts "M is undecided as an important 'mission' has come up in 'Istanbul'"
   puts "You may change your mind and ask the pilot to circle around over Gibraltar"
-  puts "Do you return to the exercise or go back to London?"
+  puts "Do you 'return' to the exercise or go back to 'London'?"
 
   print "007> "
   choice = $stdin.gets.chomp.downcase
@@ -108,8 +101,8 @@ def start
   puts "M is here and he's just briefed you on the exercise"
   puts "The plane is just about over Gibraltar, your drop zone"
   puts "Exercise is to 'infiltrate' the Rock and the British Army are expecting you"
-  puts "You and the other 00s move toward the back of the plane, the others jump out"
-  puts "Do you jump or do you stay?"
+  puts "You and the other 00s move toward the back of the plane, the others 'jump' out"
+  puts "Do you jump or do you 'stay'?"
 
   print "007> "
   choice = $stdin.gets.chomp.downcase
@@ -119,7 +112,7 @@ def start
   elsif choice == "stay"
     uk
   else
-    dead("Parachute fails! ")
+    dead("Hello?  008?")
   end
 end
 
