@@ -4,9 +4,6 @@ require "./gibraltar.rb"
 require "./tangier.rb"
 require "./vienna.rb"
 
-# def two_weeks_leave
-# Blayden safe house?
-
 def q_branch
   puts "You arrive into Q Branch and Q bops his head as he exits the Aston Martin, 'mind your head!' you wryly say. "
   puts "'Ah, 007 we're just winterizing this' [as the technicians gingerly lower the metal roof]"
@@ -15,6 +12,7 @@ def q_branch
   puts "Looking like a dead-end and following the ghetto-blaster demo, Moneypenny says M wants you at Blayden"
   puts "Stopping at Harrods, you peek inside the hamper and you see 'questionable' brands of food & booze"
   puts "Remember, enter your name at the >prompt< before changing the contents of the hamper..."
+  puts "To go to Bratislave, you must use the user name 'Kara'.."
   puts ""
   prompt = "007> "
 
@@ -47,25 +45,30 @@ def q_branch
     start
   elsif user_name.length < 2
     uk
+  elsif user_name == "Kara"
+    Bratislava.sniper
   else
     dead("I think I have indigestion!")
   end
-  # currently here on 20210406
 end
 
 def uk
   puts "You have a quick chat with M"
-  puts "He offered you two choices"
+  puts "He offered you some choices"
   puts "1. Go back to London, pick up the Aston from Q"
   puts "2. Stay on the plane"
+  puts "Later, following that nasty business at the Blayden safe house, there's a third option.."
+  puts "3. Track down Kara and get her out of Czechoslovakia and into Austria"
 
   print "007> "
   choice = $stdin.gets.chomp
 
   if choice == "1"
-    q_branch # write a new method for Q branch above
+    q_branch
   elsif choice == "2"
     dead("Fly back to London, visit Q and pick up the Aston")
+  elsif choice == "3"
+    Bratislava.rescue
   else
     uk
   end
@@ -102,7 +105,7 @@ def start
   puts "The plane is just about over Gibraltar, your drop zone"
   puts "Exercise is to 'infiltrate' the Rock and the British Army are expecting you"
   puts "You and the other 00s move toward the back of the plane, the others 'jump' out"
-  puts "Do you jump or do you 'stay'?"
+  puts "Do you 'jump' or do you 'stay'?"
 
   print "007> "
   choice = $stdin.gets.chomp.downcase
@@ -112,7 +115,7 @@ def start
   elsif choice == "stay"
     uk
   else
-    dead("Hello?  008?")
+    dead("Moneypenny, send in 008..")
   end
 end
 
