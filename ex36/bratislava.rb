@@ -38,12 +38,20 @@ module Bratislava
     puts "They escape Bratislava while being pursued by the KGB, crossing over the border into Austria."
     puts "Meanwhile, Pushkin meets with an arms dealer, Brad Whitaker, in Tangier, informing him that the KGB"
     puts "is cancelling an arms deal previously arranged between Koskov and Whitaker."
-    puts ""
+    puts "Where is Kara most likely to be when you arrive, at the 'Conservatoire' or at the Police 'station'?"
+    puts "Kara is Koskov's Girlfriend, do you go 'home' or 'stay'?"
+    puts "You offer to bring her to Vienna.  First, she must pack some warm clothes.."
+    clothes = %w[jumper scarf socks gloves]
     puts ""
     puts ""
 
-    # OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
-    # Remember, this part of the film includes the ice chase
+
+    # 20210419 OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
+    # Remember, this part of the film includes the ice chase.  Also check out ex19 with interpolation
+    # 1. Find Kara, discover fake defection and Kara's Koskov's girlfriend.
+    # 2. Pose as friend, entice her to Vienna to meet him.
+    # 3. ICE CHASE!
+    # 4. Pushkin meets Whitaker; cancels the $50m weapons order.
 
   end
 end
