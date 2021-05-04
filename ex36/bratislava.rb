@@ -41,13 +41,27 @@ module Bratislava
     puts "Where is Kara most likely to be when you arrive, at the 'Conservatoire' or at the Police 'station'?"
     puts "Kara is Koskov's Girlfriend, do you go 'home' or 'stay'?"
     puts "You offer to bring her to Vienna.  First, she must pack some warm clothes.."
-    clothes = %w[jumper scarf socks gloves]
-    puts ""
-    puts ""
+    puts "What is the first optional extra you deploy?"
+    puts "You both cross into the Austrian border on skis or the cello case?"
+    ice_chase = false
+
+    until false
+      print "007> "
+      choice = $stdin.gets.chomp.downcase
+      # 1. Kara in the Conservatoire or police station?
+      # 2. Koskov's girlfriend; go or stay?
+      # 3. Aston Martin's first 'optional extra'?
+      # 4. Into Vienna on skis or cello case?
+
+      if choice.include?("conservatoire") || choice.include?("police")
+
+      end
+
+    end
 
 
-    # 20210419 OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
-    # Remember, this part of the film includes the ice chase.  Also check out ex19 with interpolation
+    # 20210504 OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
+    # Remember, this part of the film includes the ice chase.  Check out ex31 especially the % part
     # 1. Find Kara, discover fake defection and Kara's Koskov's girlfriend.
     # 2. Pose as friend, entice her to Vienna to meet him.
     # 3. ICE CHASE!

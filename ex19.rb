@@ -16,7 +16,9 @@ cheese_and_crackers(50, 75)
 # a string describes the next action below
 puts 'OR we can use variables from our script:'
 # two new variables are created pointing to inputs from the user
+print "007> please enter first number: "
 amount_of_cheese = gets.chomp.to_i
+print "007> please enter second number: "
 amount_of_crackers = gets.chomp.to_i
 
 # method called with the new variables passed into the method

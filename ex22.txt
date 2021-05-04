@@ -35,7 +35,7 @@ Variables can also point to strings, be joined with other strings using 'concate
 """ on first line and again on the last enables writing a block of text """
 
 INPUT:
-gets.chomp asks for input from the user before proceeding '.to_s' converts to a string, '.to_i' to an integer and '.to_f' to a flaoting point number.
+gets.chomp asks for input from the user before proceeding '.to_s' converts to a string, '.to_i' to an integer and '.to_f' to a floating point number.
 
 ARGV is the 'argument variable' found in many languages that 'holds' whatever you pass into it and then allows one or more variables to point to it.  Kinda like parameters in method definitions.
 $stdin is 'standard input'used with kernel#gets (.gets) as ARGV and #gets don't work well together so $stdin is more explicit.  ARGV can take in files and text where $stdin takes in just text..
