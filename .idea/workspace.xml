@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex19.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex19.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex22.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex22.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex36/bratislava.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/bratislava.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex36/vienna.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/vienna.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -875,7 +874,8 @@
       <workItem from="1619464769859" duration="5166000" />
       <workItem from="1619546177982" duration="1030000" />
       <workItem from="1619717554367" duration="1474000" />
-      <workItem from="1620127574914" duration="1658000" />
+      <workItem from="1620127574914" duration="1972000" />
+      <workItem from="1620320988972" duration="2411000" />
     </task>
     <servers />
   </component>

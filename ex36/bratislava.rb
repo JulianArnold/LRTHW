@@ -54,13 +54,20 @@ module Bratislava
       # 4. Into Vienna on skis or cello case?
 
       if choice.include?("conservatoire") || choice.include?("police")
-
+        dead("should have headed to Kara's apartment instead...")
+      elsif choice == "stay" && !ice_chase
+        puts "The Aston's first gadget was the scanner; Aston's gone so the 'cello' 'case?'"
+        ice_chase = true
+      elsif choice == "stay" && ice_chase
+        dead("The Aston is on blocks when you leave Kara's apartment.")
+      elsif choice.include?("cello") || choice.include?("case")
+        Vienna.prater
+      else
+        dead("didn't bring skis")
       end
-
     end
 
-
-    # 20210504 OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
+    # 20210506 OK, thoughts on how to construct this one?  Shadow the method above or, add more..?
     # Remember, this part of the film includes the ice chase.  Check out ex31 especially the % part
     # 1. Find Kara, discover fake defection and Kara's Koskov's girlfriend.
     # 2. Pose as friend, entice her to Vienna to meet him.
