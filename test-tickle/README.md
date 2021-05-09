@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210509: (still on ex36) ex35 'gold_room' looks good for Vienna as Bond & Kara spend little time there
+
 20210406: fixed snafu with if statement with q_branch and now it looks to be done.
 
 20210322: added to q_branch and will adapt ex14 for this method
