@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex36/afghanistan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/afghanistan.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex36/tangier.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/tangier.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex36/vienna.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/vienna.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -878,7 +880,8 @@
       <workItem from="1620320988972" duration="4261000" />
       <workItem from="1620406143565" duration="3619000" />
       <workItem from="1620669159404" duration="2102000" />
-      <workItem from="1620683330987" duration="547000" />
+      <workItem from="1620683330987" duration="632000" />
+      <workItem from="1620755038484" duration="1402000" />
     </task>
     <servers />
   </component>

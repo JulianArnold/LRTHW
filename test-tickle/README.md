@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210511: Vienna's done, time to go to Tangier to track Pushkin to have a chat about 'Smiert Spionam'
+
 20210509: (still on ex36) ex35 'gold_room' looks good for Vienna as Bond & Kara spend little time there
 
 20210406: fixed snafu with if statement with q_branch and now it looks to be done.
