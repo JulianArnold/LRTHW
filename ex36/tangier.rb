@@ -8,12 +8,17 @@ module Tangier
     puts "Persuaded to drug Bond, he along with Kara is captured by Koskov and Co."
     puts ""
     puts ""
-    personnel = ['Bond', 'Kara', 'Koskov', 'Pushkin', 'Whitaker', 'Necros']
+    people = $stdin.gets.chomp
+    cars = $stdin.gets.chomp
+    bullets = $stdin.gets.chomp
 
+    if cars > people
+      puts
+    end
 
 
   end
 end
 
 
-# 20210520: looking at ex33 as possibility for the above
+# 20210521: looking at ex30 as possibility for the above
