@@ -2,6 +2,8 @@
 
 ## Notes
 
+20210513: On Tangier and have text written but no plan as yet...
+
 20210511: Vienna's done, time to go to Tangier to track Pushkin to have a chat about 'Smiert Spionam'
 
 20210509: (still on ex36) ex35 'gold_room' looks good for Vienna as Bond & Kara spend little time there

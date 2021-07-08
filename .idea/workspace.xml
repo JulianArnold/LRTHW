@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667c99d0-f1da-4403-98e1-8974e969f6a4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/julianarnold.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex36/afghanistan.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/afghanistan.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex32.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex32.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex34.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex34.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex36/ex36.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/ex36.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ex36/tangier.rb" beforeDir="false" afterPath="$PROJECT_DIR$/ex36/tangier.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test-tickle/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/test-tickle/README.md" afterDir="false" />
     </list>
@@ -130,7 +131,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Ruby.ex30">
+  <component name="RunManager" selected="Ruby.ex3">
     <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
       <predefined_log_file enabled="true" id="RUBY_RSPEC" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="" />
@@ -160,25 +161,7 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
       <method v="2" />
     </configuration>
-    <configuration name="bratislava" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
-      <module name="Programs" />
-      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$/ex36" />
-      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
-      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
-      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
-      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
-      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
-      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
-        <COVERAGE_PATTERN ENABLED="true">
-          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
-        </COVERAGE_PATTERN>
-      </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex36/bratislava.rb" />
-      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ex19-1" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex3" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -192,7 +175,7 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex19-1.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex3.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -214,7 +197,7 @@
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
-    <configuration name="ex31" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+    <configuration name="ex32" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
       <module name="Programs" />
       <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
       <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
@@ -228,7 +211,25 @@
           <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
         </COVERAGE_PATTERN>
       </EXTENSION>
-      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex31.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex32.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ex34" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="Programs" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/ex34.rb" />
       <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
       <method v="2" />
     </configuration>
@@ -260,19 +261,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Ruby.ex36" />
-      <item itemvalue="Ruby.bratislava" />
-      <item itemvalue="Ruby.ex19-1" />
-      <item itemvalue="Ruby.ex31" />
       <item itemvalue="Ruby.ex30" />
+      <item itemvalue="Ruby.ex34" />
+      <item itemvalue="Ruby.ex36" />
+      <item itemvalue="Ruby.ex32" />
+      <item itemvalue="Ruby.ex3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Ruby.ex30" />
+        <item itemvalue="Ruby.ex3" />
+        <item itemvalue="Ruby.ex34" />
+        <item itemvalue="Ruby.ex32" />
         <item itemvalue="Ruby.ex36" />
-        <item itemvalue="Ruby.ex31" />
-        <item itemvalue="Ruby.ex19-1" />
-        <item itemvalue="Ruby.bratislava" />
+        <item itemvalue="Ruby.ex30" />
       </list>
     </recent_temporary>
   </component>
@@ -882,6 +883,39 @@
       <workItem from="1620669159404" duration="2102000" />
       <workItem from="1620683330987" duration="632000" />
       <workItem from="1620755038484" duration="1402000" />
+      <workItem from="1620772230600" duration="66000" />
+      <workItem from="1620839169481" duration="769000" />
+      <workItem from="1620939242222" duration="2463000" />
+      <workItem from="1621011799109" duration="1134000" />
+      <workItem from="1621097122126" duration="1321000" />
+      <workItem from="1621277266954" duration="1637000" />
+      <workItem from="1621369544747" duration="849000" />
+      <workItem from="1621443466772" duration="907000" />
+      <workItem from="1621527988660" duration="3320000" />
+      <workItem from="1621632694449" duration="2166000" />
+      <workItem from="1621636253516" duration="2841000" />
+      <workItem from="1621788324058" duration="570000" />
+      <workItem from="1621882064138" duration="1557000" />
+      <workItem from="1622134658998" duration="6480000" />
+      <workItem from="1622235811011" duration="1286000" />
+      <workItem from="1622273193833" duration="6879000" />
+      <workItem from="1622492546241" duration="435000" />
+      <workItem from="1622738831250" duration="815000" />
+      <workItem from="1622904600146" duration="534000" />
+      <workItem from="1623085315247" duration="1067000" />
+      <workItem from="1623171869453" duration="4186000" />
+      <workItem from="1623268837699" duration="1814000" />
+      <workItem from="1623356682752" duration="1152000" />
+      <workItem from="1623534779509" duration="632000" />
+      <workItem from="1625002086469" duration="469000" />
+      <workItem from="1625156353903" duration="728000" />
+      <workItem from="1625230685236" duration="43000" />
+      <workItem from="1625230797458" duration="2940000" />
+      <workItem from="1625320446205" duration="703000" />
+      <workItem from="1625507997211" duration="105000" />
+      <workItem from="1625595565102" duration="2072000" />
+      <workItem from="1625675731040" duration="617000" />
+      <workItem from="1625777611556" duration="2448000" />
     </task>
     <servers />
   </component>
@@ -919,29 +953,31 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programs@ex25_2.rcov" NAME="ex25_2 Coverage Results" MODIFIED="1599757509019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex32.rcov" NAME="ex32 Coverage Results" MODIFIED="1622301321210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex29.rcov" NAME="ex29 Coverage Results" MODIFIED="1599757669343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex21.rcov" NAME="ex21 Coverage Results" MODIFIED="1599757288126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex30.rcov" NAME="ex30 Coverage Results" MODIFIED="1622295211923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex33.rcov" NAME="ex33 Coverage Results" MODIFIED="1621633728929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex25.rcov" NAME="ex25 Coverage Results" MODIFIED="1611699877657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@gibraltar.rcov" NAME="gibraltar Coverage Results" MODIFIED="1615500463447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ruby_ex31_rb.rcov" NAME="ruby ex31.rb Coverage Results" MODIFIED="1591371512511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex31_1.rcov" NAME="ex31-1 Coverage Results" MODIFIED="1597353498208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex25_2.rcov" NAME="ex25_2 Coverage Results" MODIFIED="1599757509019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex28.rcov" NAME="ex28 Coverage Results" MODIFIED="1599757607627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex32.rcov" NAME="ex32 Coverage Results" MODIFIED="1618866159448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex36.rcov" NAME="ex36 Coverage Results" MODIFIED="1620330335818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex36.rcov" NAME="ex36 Coverage Results" MODIFIED="1622295223310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex11.rcov" NAME="ex11 Coverage Results" MODIFIED="1591362447429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex7.rcov" NAME="ex7 Coverage Results" MODIFIED="1591362572454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex29.rcov" NAME="ex29 Coverage Results" MODIFIED="1599757669343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@times_tables.rcov" NAME="times_tables Coverage Results" MODIFIED="1596907950000" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex21.rcov" NAME="ex21 Coverage Results" MODIFIED="1599757288126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex31.rcov" NAME="ex31 Coverage Results" MODIFIED="1619473311195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex34.rcov" NAME="ex34 Coverage Results" MODIFIED="1601920243694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex3.rcov" NAME="ex3 Coverage Results" MODIFIED="1625241812870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@ex34.rcov" NAME="ex34 Coverage Results" MODIFIED="1623361474902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex20.rcov" NAME="ex20 Coverage Results" MODIFIED="1599757274054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex24.rcov" NAME="ex24 Coverage Results" MODIFIED="1599757431817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex19.rcov" NAME="ex19 Coverage Results" MODIFIED="1618949793150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex19_1.rcov" NAME="ex19-1 Coverage Results" MODIFIED="1619470024696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@bratislava.rcov" NAME="bratislava Coverage Results" MODIFIED="1618949899131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex35.rcov" NAME="ex35 Coverage Results" MODIFIED="1613168590319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex30.rcov" NAME="ex30 Coverage Results" MODIFIED="1620594358683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
     <SUITE FILE_PATH="coverage/Programs@ex12.rcov" NAME="ex12 Coverage Results" MODIFIED="1591362592342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex33.rcov" NAME="ex33 Coverage Results" MODIFIED="1600187363746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@ex25.rcov" NAME="ex25 Coverage Results" MODIFIED="1611699877657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="Programs" />
-    <SUITE FILE_PATH="coverage/Programs@gibraltar.rcov" NAME="gibraltar Coverage Results" MODIFIED="1615500463447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
+    <SUITE FILE_PATH="coverage/Programs@tangier.rcov" NAME="tangier Coverage Results" MODIFIED="1622194226617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ex36" MODULE_NAME="Programs" />
   </component>
 </project>

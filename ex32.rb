@@ -1,9 +1,9 @@
 the_count = [5, 4, 3, 2, 1].reverse
 fruits = %w[apples oranges peaches pears grapes bananas mangoes]
-change = {1 => 'pennies', 2 => 'dimes', 3 => 'quarters'}
+change = { 1 => 'pennies', 2 => 'dimes', 3 => 'quarters' }
 
-the_count.each do |number|
-  puts "The count is: #{number}"
+for number in the_count 
+  puts "This is count: #{number}"
 end
 
 fruits.push('strawberries')

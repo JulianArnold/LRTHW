@@ -12,7 +12,7 @@ def q_branch
   puts "Looking like a dead-end and following the ghetto-blaster demo, Moneypenny says M wants you at Blayden"
   puts "Stopping at Harrods, you peek inside the hamper and you see 'questionable' brands of food & booze"
   puts "Remember, enter your name at the >prompt< before changing the contents of the hamper..."
-  puts "To go to Bratislave, you must use the user name 'Kara'.."
+  puts "To go to Bratislava, you must use the user name 'Kara'.."
   puts ""
   prompt = "007> "
 

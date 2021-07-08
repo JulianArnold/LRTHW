@@ -61,6 +61,7 @@ check_place(3)
 check_place(4)
 check_place(5)
 check_place(6)
+check_place(7)
 
 
 
